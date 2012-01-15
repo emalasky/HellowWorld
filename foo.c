@@ -1,4 +1,4 @@
 int main()
 {
-	compile error;
+return 0;
 }
